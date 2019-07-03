@@ -1,4 +1,4 @@
-# awesome-mara-kr
+# awesome-mara-kr [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 한국 마라 음식 맛집 정리. ~저는 마라 매니아입니다.~
 
@@ -17,6 +17,21 @@
 - 부재료가 다양함. 마파두부 같은 것도 퍼다 먹을 수 있음
 - 아직까진 내 마음속 훠궈 1티어
 - 훠궈 외에도 다양한 중국요리 판매
+
+## 선릉
+
+### 탕화쿵푸
+- [x] 방문여부 ([@channprj](https://github.com/channprj))
+- [네이버](https://store.naver.com/restaurants/detail?id=1020603768)
+- 마라탕, 꿔바로우 맛있음
+- 담아서 먹는 곳
+- 매운맛 강도 조절 가능
+
+### 마라테이블
+- [x] 방문여부 ([@channprj](https://github.com/channprj))
+- [네이버](https://store.naver.com/restaurants/detail?id=1351507296)
+- 요리로 나오는 곳, 종류가 제법 다양함
+- 얼얼한 맛이 좋음
 
 ## 강남
 
